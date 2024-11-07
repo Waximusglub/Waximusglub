@@ -86,9 +86,9 @@ A part de programar, tinc algunes aficions creatives que gaudeixo en el meu temp
 
 ## 💬 Let's Connect! | ¡Conectemos! | Connectem!
 
-I'm open to junior developer roles, collaborations, and networking. Let's talk! 😊
-Estoy abierto a roles de desarrollador junior, colaboraciones y oportunidades de networking. ¡Hablemos! 😊
-Estic obert a llocs de treball com a desenvolupador junior, col·laboracions i oportunitats de networking. Parlem! 😊
+I'm open to junior developer roles, collaborations, and networking. Let's talk! 😊  
+Estoy abierto a roles de desarrollador junior, colaboraciones y oportunidades de networking. ¡Hablemos! 😊  
+Estic obert a llocs de treball com a desenvolupador junior, col·laboracions i oportunitats de networking. Parlem! 😊  
 
 ---
 
