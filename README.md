@@ -37,9 +37,9 @@ Estic sempre obert a noves oportunitats de creixement i col·laboració. Connect
 
 ## 🛠️ Tech Stack | Pila Tecnológica | Pila Tecnològica
 
-As a programmer, I focus on developing my skills in the following technologies:
-Como programador, me enfoco en desarrollar mis habilidades en las siguientes tecnologías:
-Com a programador, em centro a desenvolupar les meves habilitats en les següents tecnologies:
+As a programmer, I focus on developing my skills in the following technologies:  
+Como programador, me enfoco en desarrollar mis habilidades en las siguientes tecnologías:  
+Com a programador, em centro a desenvolupar les meves habilitats en les següents tecnologies:  
 
 #### Languages | Lenguajes | Llenguatges
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,9 +65,9 @@ Com a programador, em centro a desenvolupar les meves habilitats en les següent
 
 ## 🔍 Fun Facts & Hobbies | Curiosidades & Hobbies | Curiositats & Aficions
 
-Aside from programming, I have a few creative hobbies that I enjoy in my free time:
-Además de programar, tengo algunos hobbies creativos que disfruto en mi tiempo libre:
-A part de programar, tinc algunes aficions creatives que gaudeixo en el meu temps lliure:
+Aside from programming, I have a few creative hobbies that I enjoy in my free time:  
+Además de programar, tengo algunos hobbies creativos que disfruto en mi tiempo libre:  
+A part de programar, tinc algunes aficions creatives que gaudeixo en el meu temps lliure:  
 
 - 🎨 **Digital Art**: I love experimenting with colors and styles, creating illustrations and concept art.
 - 🎮 **Pixel Art**: I enjoy designing retro-style sprites and characters, especially for video games.
