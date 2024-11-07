@@ -71,7 +71,6 @@ A part de programar, tinc algunes aficions creatives que gaudeixo en el meu temp
 
 - 🎨 **Digital Art**: I love experimenting with colors and styles, creating illustrations and concept art.
 - 🎮 **Pixel Art**: I enjoy designing retro-style sprites and characters, especially for video games.
-- 📷 **Photography**: Capturing moments and scenes to tell stories through images.
 
 ---
 
