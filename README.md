@@ -10,7 +10,6 @@
 
 ---
 
-
 ## 🔥 Fun Facts | Datos Curiosos | Curiositats
 
 - 💡 I'm always eager to learn new technologies and keep my skills sharp.
@@ -21,8 +20,8 @@
 ## 📈 GitHub Stats | Estadísticas de GitHub | Estadístiques de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waximusglub&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waximusglub&theme=radical" alt="GitHub streak" width="48%" />
 </p>
 
 ---
