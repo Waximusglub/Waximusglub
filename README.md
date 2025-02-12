@@ -14,8 +14,11 @@ Estoy comprometido con el aprendizaje continuo y mi meta es fortalecer mis habil
 
 ## 🌐 Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-florensadev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?style=for-the-badge&logo=github&logoColor=white)](https://waximusglub.github.io/portfolio_SF/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergi-florensadev/)
+[![Gmail Badge](https://img.shields.io/badge/-sflorensadev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sflorensadev@gmail.com)](mailto:sflorensadev@gmail.com) 
+[![GitHub](https://img.shields.io/github/followers/Waximusglub?label=follow&style=social)](https://github.com/Waximusglub)
+
 
 ---
 
